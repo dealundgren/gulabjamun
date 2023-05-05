@@ -1,0 +1,11 @@
+framework module SPMPOCFramework {
+  umbrella header "SPMPOCFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SPMPOCFramework.Swift {
+  header "SPMPOCFramework-Swift.h"
+  requires objc
+}
