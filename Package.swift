@@ -9,6 +9,7 @@ let package = Package(
             name: "SPMPOCFramework",
             targets: ["SPMPOCFramework"])
     ],
+    // Only one target
     targets: [
         .binaryTarget(
             name: "SPMPOCFramework",
