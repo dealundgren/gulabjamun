@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMPOCFramework",
-            path: "/SPMPOCFramework.xcframework"
+            path: "SPMPOCFramework.xcframework"
         )
     ]
 )
