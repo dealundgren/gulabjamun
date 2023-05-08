@@ -2,4 +2,4 @@
 Binary tester
 
 This is a readme. 
-UPPING version to 1.2.4 (no build number included in tag now)
+UPPING version to 1.3.5 - using minor to try to trigger update
