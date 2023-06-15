@@ -13,7 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMPOCFramework",
-            path: "SPMPOCFramework.xcframework"
+            url: "https://github.com/dealundgren/gulabjamun/releases/download/1.3.6/SPMPOCFramework.xcframework.zip",
+            checksum: "10def96a51910efd7fd65d0a7ede5c58f77a79e912f2bef236ba6596e123f842"
         )
     ]
 )
